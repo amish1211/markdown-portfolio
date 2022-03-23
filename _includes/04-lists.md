@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. Microprocessing
+2. Electronics
+    1. Analog Circuits
+    2. Digital Communication
+- Ubuntu
+- Arch
+- Fedora
